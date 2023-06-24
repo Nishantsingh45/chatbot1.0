@@ -9,11 +9,12 @@ Chatbot 1.0 is a simple Django-based chatbot application that utilizes OpenAI's 
 - Chat history: The application stores the chat history for each user. So user can access his/her previous chat easily.
 ## Usage
 
-- You can access the Chatbot using this link https://chatbot10--nishantsingh105.repl.co/
--Register a new account or log in with your existing credentials.
--Enter your message in the chat input and press Enter or click the Send button.
--The chatbot will generate a response based on your message.
--View your chat history in the chat window.
+- You can access the Chatbot using this link https://chatbot10--nishantsingh105.repl.co/.
+- Register a new account or log in with your existing credentials.
+- Enter your message in the chat input and press Enter or click the Send button.
+- The chatbot will generate a response based on your message.
+- View your chat history in the chat window.
+
 
 ## Prerequisites
 
