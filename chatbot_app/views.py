@@ -11,7 +11,7 @@ from django.utils import timezone
 
 
 #from . views import chatbot
-open_ai_key = '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'
+open_ai_key = 'YOUR_API_KEY'
 openai.api_key = open_ai_key
 
 def ask_openai(message):
